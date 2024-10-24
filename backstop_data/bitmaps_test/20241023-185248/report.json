@@ -1,0 +1,1895 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_0_document_0_mobile.png",
+        "label": "movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe",
+        "referenceUrl": "https://movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 26.525873177348252,
+          "misMatchPercentage": "26.53",
+          "analysisTime": 2270
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_0__1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_0__1_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_0__1_desktop.png",
+        "label": "movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe",
+        "referenceUrl": "https://movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_0__1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_internet_internet-telefono-fijo-tv_0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_internet_internet-telefono-fijo-tv_0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_hogar_internet_internet-telefono-fijo-tv_0__0_mobile.png",
+        "label": "movistar.com.pe/hogar/internet/internet-telefono-fijo-tv",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/internet/internet-telefono-fijo-tv",
+        "referenceUrl": "https://www.movistar.com.pe/hogar/internet/internet-telefono-fijo-tv",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/hogar/internet/internet-telefono-fijo-tv",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_hogar_internet_internet-telefono-fijo-tv_0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_internet_internet-telefono-fijo-tv_0__1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_internet_internet-telefono-fijo-tv_0__1_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_hogar_internet_internet-telefono-fijo-tv_0__1_desktop.png",
+        "label": "movistar.com.pe/hogar/internet/internet-telefono-fijo-tv",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/internet/internet-telefono-fijo-tv",
+        "referenceUrl": "https://www.movistar.com.pe/hogar/internet/internet-telefono-fijo-tv",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/hogar/internet/internet-telefono-fijo-tv",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_hogar_internet_internet-telefono-fijo-tv_0__1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_duos-internet-tv-fijo_0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_duos-internet-tv-fijo_0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_hogar_duos-internet-tv-fijo_0__0_mobile.png",
+        "label": "movistar.com.pe/hogar/duos-internet-tv-fijo",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/duos-internet-tv-fijo",
+        "referenceUrl": "https://www.movistar.com.pe/hogar/duos-internet-tv-fijo",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/hogar/duos-internet-tv-fijo",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_hogar_duos-internet-tv-fijo_0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_duos-internet-tv-fijo_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_duos-internet-tv-fijo_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_hogar_duos-internet-tv-fijo_0_document_1_desktop.png",
+        "label": "movistar.com.pe/hogar/duos-internet-tv-fijo",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/duos-internet-tv-fijo",
+        "referenceUrl": "https://www.movistar.com.pe/hogar/duos-internet-tv-fijo",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -4983
+          },
+          "rawMisMatchPercentage": 16.957871437015235,
+          "misMatchPercentage": "16.96",
+          "analysisTime": 5421
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_hogar_duos-internet-tv-fijo_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_internet-gamer_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_internet-gamer_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_hogar_internet-gamer_0_document_0_mobile.png",
+        "label": "movistar.com.pe/hogar/internet-gamer",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/internet-gamer",
+        "referenceUrl": "https://movistar.com.pe/hogar/internet-gamer",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -112
+          },
+          "rawMisMatchPercentage": 29.07638388055925,
+          "misMatchPercentage": "29.08",
+          "analysisTime": 665
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_hogar_internet-gamer_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_internet-gamer_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_internet-gamer_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_hogar_internet-gamer_0_document_1_desktop.png",
+        "label": "movistar.com.pe/hogar/internet-gamer",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/internet-gamer",
+        "referenceUrl": "https://movistar.com.pe/hogar/internet-gamer",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -81
+          },
+          "rawMisMatchPercentage": 19.62297975106818,
+          "misMatchPercentage": "19.62",
+          "analysisTime": 5641
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_hogar_internet-gamer_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_internet_fibra-optica_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_internet_fibra-optica_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_internet_fibra-optica_0_document_0_mobile.png",
+        "label": "movistar.com.pe/internet/fibra-optica",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/internet/fibra-optica",
+        "referenceUrl": "https://movistar.com.pe/internet/fibra-optica",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -15,
+            "height": -41933
+          },
+          "rawMisMatchPercentage": 3.4383696905258767,
+          "misMatchPercentage": "3.44",
+          "analysisTime": 5141
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_internet_fibra-optica_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_internet_fibra-optica_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_internet_fibra-optica_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_internet_fibra-optica_0_document_1_desktop.png",
+        "label": "movistar.com.pe/internet/fibra-optica",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/internet/fibra-optica",
+        "referenceUrl": "https://movistar.com.pe/internet/fibra-optica",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -44,
+            "height": -31913
+          },
+          "rawMisMatchPercentage": 2.9962630274692916,
+          "misMatchPercentage": "3.00",
+          "analysisTime": 2386
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_internet_fibra-optica_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_internet_solo-internet_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_internet_solo-internet_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_hogar_internet_solo-internet_0_document_0_mobile.png",
+        "label": "movistar.com.pe/hogar/internet/solo-internet",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/internet/solo-internet",
+        "referenceUrl": "https://movistar.com.pe/hogar/internet/solo-internet",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -805,
+            "height": -17203
+          },
+          "rawMisMatchPercentage": 2.698687223073249,
+          "misMatchPercentage": "2.70",
+          "analysisTime": 4695
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_hogar_internet_solo-internet_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_internet_solo-internet_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_internet_solo-internet_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_hogar_internet_solo-internet_0_document_1_desktop.png",
+        "label": "movistar.com.pe/hogar/internet/solo-internet",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/internet/solo-internet",
+        "referenceUrl": "https://movistar.com.pe/hogar/internet/solo-internet",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -16806
+          },
+          "rawMisMatchPercentage": 6.792935334414789,
+          "misMatchPercentage": "6.79",
+          "analysisTime": 3475
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_hogar_internet_solo-internet_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_movistar-tv-cable_0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_movistar-tv-cable_0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_hogar_movistar-tv-cable_0__0_mobile.png",
+        "label": "movistar.com.pe/hogar/movistar-tv-cable",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/movistar-tv-cable",
+        "referenceUrl": "https://movistar.com.pe/hogar/movistar-tv-cable",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/hogar/movistar-tv-cable",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_hogar_movistar-tv-cable_0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_movistar-tv-cable_0__1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_movistar-tv-cable_0__1_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_hogar_movistar-tv-cable_0__1_desktop.png",
+        "label": "movistar.com.pe/hogar/movistar-tv-cable",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/movistar-tv-cable",
+        "referenceUrl": "https://movistar.com.pe/hogar/movistar-tv-cable",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/hogar/movistar-tv-cable",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_hogar_movistar-tv-cable_0__1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_movistar-total_0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_movistar-total_0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_hogar_movistar-total_0__0_mobile.png",
+        "label": "movistar.com.pe/hogar/movistar-total",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/movistar-total",
+        "referenceUrl": "https://movistar.com.pe/hogar/movistar-total",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/hogar/movistar-total",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_hogar_movistar-total_0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_movistar-total_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_movistar-total_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_hogar_movistar-total_0_document_1_desktop.png",
+        "label": "movistar.com.pe/hogar/movistar-total",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/movistar-total",
+        "referenceUrl": "https://movistar.com.pe/hogar/movistar-total",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -544
+          },
+          "rawMisMatchPercentage": 17.188359522613666,
+          "misMatchPercentage": "17.19",
+          "analysisTime": 3083
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_hogar_movistar-total_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_tv-en-vivo_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_tv-en-vivo_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_tv-en-vivo_0_document_0_mobile.png",
+        "label": "movistar.com.pe/tv-en-vivo",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/tv-en-vivo",
+        "referenceUrl": "https://movistar.com.pe/tv-en-vivo",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -5412
+          },
+          "rawMisMatchPercentage": 8.854187849843372,
+          "misMatchPercentage": "8.85",
+          "analysisTime": 1778
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_tv-en-vivo_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_tv-en-vivo_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_tv-en-vivo_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_tv-en-vivo_0_document_1_desktop.png",
+        "label": "movistar.com.pe/tv-en-vivo",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/tv-en-vivo",
+        "referenceUrl": "https://movistar.com.pe/tv-en-vivo",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -5131
+          },
+          "rawMisMatchPercentage": 8.660631842764808,
+          "misMatchPercentage": "8.66",
+          "analysisTime": 3245
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_tv-en-vivo_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_test-de-velocidad_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_test-de-velocidad_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_test-de-velocidad_0_document_0_mobile.png",
+        "label": "movistar.com.pe/test-de-velocidad",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/test-de-velocidad",
+        "referenceUrl": "https://movistar.com.pe/test-de-velocidad",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -5287
+          },
+          "rawMisMatchPercentage": 4.653052675672845,
+          "misMatchPercentage": "4.65",
+          "analysisTime": 1385
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_test-de-velocidad_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_test-de-velocidad_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_test-de-velocidad_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_test-de-velocidad_0_document_1_desktop.png",
+        "label": "movistar.com.pe/test-de-velocidad",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/test-de-velocidad",
+        "referenceUrl": "https://movistar.com.pe/test-de-velocidad",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -4315
+          },
+          "rawMisMatchPercentage": 3.6346105496052696,
+          "misMatchPercentage": "3.63",
+          "analysisTime": 1655
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_test-de-velocidad_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_edificios_0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_edificios_0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_hogar_edificios_0__0_mobile.png",
+        "label": "movistar.com.pe/hogar/edificios",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/edificios",
+        "referenceUrl": "https://movistar.com.pe/hogar/edificios",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/hogar/edificios",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_hogar_edificios_0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_hogar_edificios_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_hogar_edificios_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_hogar_edificios_0_document_1_desktop.png",
+        "label": "movistar.com.pe/hogar/edificios",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/hogar/edificios",
+        "referenceUrl": "https://movistar.com.pe/hogar/edificios",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 69
+          },
+          "rawMisMatchPercentage": 25.436548560792392,
+          "misMatchPercentage": "25.44",
+          "analysisTime": 8185
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_hogar_edificios_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_planes-postpago_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_planes-postpago_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_planes-postpago_0_document_0_mobile.png",
+        "label": "movistar.com.pe/movil/postpago/planes-postpago",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/planes-postpago",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/planes-postpago",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -1008,
+            "height": -5484
+          },
+          "rawMisMatchPercentage": 5.377663579807004,
+          "misMatchPercentage": "5.38",
+          "analysisTime": 4532
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_postpago_planes-postpago_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_planes-postpago_0__1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_planes-postpago_0__1_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_planes-postpago_0__1_desktop.png",
+        "label": "movistar.com.pe/movil/postpago/planes-postpago",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/planes-postpago",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/planes-postpago",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/planes-postpago",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_planes-postpago_0__1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_portabilidad-test_0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_portabilidad-test_0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_portabilidad-test_0__0_mobile.png",
+        "label": "movistar.com.pe/movil/postpago/portabilidad-test",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/portabilidad-test",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/portabilidad-test",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/portabilidad-test",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_portabilidad-test_0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_portabilidad-test_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_portabilidad-test_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_portabilidad-test_0_document_1_desktop.png",
+        "label": "movistar.com.pe/movil/postpago/portabilidad-test",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/portabilidad-test",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/portabilidad-test",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -43,
+            "height": -28228
+          },
+          "rawMisMatchPercentage": 5.206864499623539,
+          "misMatchPercentage": "5.21",
+          "analysisTime": 3862
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_postpago_portabilidad-test_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_renueva-tu-equipo_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_renueva-tu-equipo_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_renueva-tu-equipo_0_document_0_mobile.png",
+        "label": "movistar.com.pe/movil/postpago/renueva-tu-equipo",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/renueva-tu-equipo",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/renueva-tu-equipo",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -991,
+            "height": -1820
+          },
+          "rawMisMatchPercentage": 8.89522982096214,
+          "misMatchPercentage": "8.90",
+          "analysisTime": 5312
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_postpago_renueva-tu-equipo_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_renueva-tu-equipo_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_renueva-tu-equipo_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_renueva-tu-equipo_0_document_1_desktop.png",
+        "label": "movistar.com.pe/movil/postpago/renueva-tu-equipo",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/renueva-tu-equipo",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/renueva-tu-equipo",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 1977
+          },
+          "rawMisMatchPercentage": 24.31838474025974,
+          "misMatchPercentage": "24.32",
+          "analysisTime": 4403
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_postpago_renueva-tu-equipo_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_roaming-internacional_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_roaming-internacional_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_roaming-internacional_0_document_0_mobile.png",
+        "label": "movistar.com.pe/movil/postpago/roaming-internacional",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/roaming-internacional",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/roaming-internacional",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -4696
+          },
+          "rawMisMatchPercentage": 7.43309668109668,
+          "misMatchPercentage": "7.43",
+          "analysisTime": 1080
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_postpago_roaming-internacional_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_roaming-internacional_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_roaming-internacional_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_roaming-internacional_0_document_1_desktop.png",
+        "label": "movistar.com.pe/movil/postpago/roaming-internacional",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/roaming-internacional",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/roaming-internacional",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -1400,
+            "height": -4652
+          },
+          "rawMisMatchPercentage": 4.878224906842617,
+          "misMatchPercentage": "4.88",
+          "analysisTime": 3540
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_postpago_roaming-internacional_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_linea-adicional_0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_linea-adicional_0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_linea-adicional_0__0_mobile.png",
+        "label": "movistar.com.pe/movil/postpago/linea-adicional",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/linea-adicional",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/linea-adicional",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/linea-adicional",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_linea-adicional_0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_linea-adicional_0__1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_postpago_linea-adicional_0__1_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_movil_postpago_linea-adicional_0__1_desktop.png",
+        "label": "movistar.com.pe/movil/postpago/linea-adicional",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/linea-adicional",
+        "referenceUrl": "https://movistar.com.pe/movil/postpago/linea-adicional",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/movil/postpago/linea-adicional",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_movil_postpago_linea-adicional_0__1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_prepago_preplan_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_prepago_preplan_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_prepago_preplan_0_document_0_mobile.png",
+        "label": "movistar.com.pe/movil/prepago/preplan",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/prepago/preplan",
+        "referenceUrl": "https://movistar.com.pe/movil/prepago/preplan",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -2784,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 4.253659312842207,
+          "misMatchPercentage": "4.25",
+          "analysisTime": 5462
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_prepago_preplan_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_prepago_preplan_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_prepago_preplan_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_prepago_preplan_0_document_1_desktop.png",
+        "label": "movistar.com.pe/movil/prepago/preplan",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/prepago/preplan",
+        "referenceUrl": "https://movistar.com.pe/movil/prepago/preplan",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 667,
+            "height": -152
+          },
+          "rawMisMatchPercentage": 11.580039640793286,
+          "misMatchPercentage": "11.58",
+          "analysisTime": 1456
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_prepago_preplan_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_prepago_recargas_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_prepago_recargas_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_prepago_recargas_0_document_0_mobile.png",
+        "label": "movistar.com.pe/movil/prepago/recargas",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/prepago/recargas",
+        "referenceUrl": "https://movistar.com.pe/movil/prepago/recargas",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -6255
+          },
+          "rawMisMatchPercentage": 7.346823016089446,
+          "misMatchPercentage": "7.35",
+          "analysisTime": 2291
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_prepago_recargas_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_prepago_recargas_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_prepago_recargas_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_prepago_recargas_0_document_1_desktop.png",
+        "label": "movistar.com.pe/movil/prepago/recargas",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/prepago/recargas",
+        "referenceUrl": "https://movistar.com.pe/movil/prepago/recargas",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -5494
+          },
+          "rawMisMatchPercentage": 8.58310950090574,
+          "misMatchPercentage": "8.58",
+          "analysisTime": 2688
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_prepago_recargas_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_prepago_beneficios_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_prepago_beneficios_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_prepago_beneficios_0_document_0_mobile.png",
+        "label": "movistar.com.pe/movil/prepago/beneficios",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/prepago/beneficios",
+        "referenceUrl": "https://movistar.com.pe/movil/prepago/beneficios",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -22901
+          },
+          "rawMisMatchPercentage": 5.5730528502791845,
+          "misMatchPercentage": "5.57",
+          "analysisTime": 3608
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_prepago_beneficios_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_prepago_beneficios_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_prepago_beneficios_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_prepago_beneficios_0_document_1_desktop.png",
+        "label": "movistar.com.pe/movil/prepago/beneficios",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/prepago/beneficios",
+        "referenceUrl": "https://movistar.com.pe/movil/prepago/beneficios",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -2038
+          },
+          "rawMisMatchPercentage": 20.214646679123494,
+          "misMatchPercentage": "20.21",
+          "analysisTime": 2915
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_prepago_beneficios_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_prepago_como-activar-tu-chip_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_prepago_como-activar-tu-chip_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_prepago_como-activar-tu-chip_0_document_0_mobile.png",
+        "label": "movistar.com.pe/movil/prepago/como-activar-tu-chip",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/prepago/como-activar-tu-chip",
+        "referenceUrl": "https://movistar.com.pe/movil/prepago/como-activar-tu-chip",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -4417
+          },
+          "rawMisMatchPercentage": 9.508585395661473,
+          "misMatchPercentage": "9.51",
+          "analysisTime": 2047
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_prepago_como-activar-tu-chip_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_movil_prepago_como-activar-tu-chip_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_movil_prepago_como-activar-tu-chip_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_movil_prepago_como-activar-tu-chip_0_document_1_desktop.png",
+        "label": "movistar.com.pe/movil/prepago/como-activar-tu-chip",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/movil/prepago/como-activar-tu-chip",
+        "referenceUrl": "https://movistar.com.pe/movil/prepago/como-activar-tu-chip",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -4275
+          },
+          "rawMisMatchPercentage": 9.898436503685566,
+          "misMatchPercentage": "9.90",
+          "analysisTime": 4613
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_movil_prepago_como-activar-tu-chip_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog_fibra-optica-revolucion-tecnologica_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_blog_fibra-optica-revolucion-tecnologica_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_blog_fibra-optica-revolucion-tecnologica_0_document_0_mobile.png",
+        "label": "movistar.com.pe/blog/fibra-optica-revolucion-tecnologica",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/fibra-optica-revolucion-tecnologica",
+        "referenceUrl": "https://movistar.com.pe/blog/fibra-optica-revolucion-tecnologica",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 15,
+            "height": -1656
+          },
+          "rawMisMatchPercentage": 29.147686044468884,
+          "misMatchPercentage": "29.15",
+          "analysisTime": 3611
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_blog_fibra-optica-revolucion-tecnologica_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog_fibra-optica-revolucion-tecnologica_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_blog_fibra-optica-revolucion-tecnologica_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_blog_fibra-optica-revolucion-tecnologica_0_document_1_desktop.png",
+        "label": "movistar.com.pe/blog/fibra-optica-revolucion-tecnologica",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/fibra-optica-revolucion-tecnologica",
+        "referenceUrl": "https://movistar.com.pe/blog/fibra-optica-revolucion-tecnologica",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -15,
+            "height": -483
+          },
+          "rawMisMatchPercentage": 17.097266263574408,
+          "misMatchPercentage": "17.10",
+          "analysisTime": 3350
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_blog_fibra-optica-revolucion-tecnologica_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_mobile.png",
+        "label": "movistar.com.pe/blog/internet-guia-definitiva",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/internet-guia-definitiva",
+        "referenceUrl": "https://movistar.com.pe/blog/internet-guia-definitiva",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -44,
+            "height": -3087
+          },
+          "rawMisMatchPercentage": 20.09924553856022,
+          "misMatchPercentage": "20.10",
+          "analysisTime": 4024
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_1_desktop.png",
+        "label": "movistar.com.pe/blog/internet-guia-definitiva",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/internet-guia-definitiva",
+        "referenceUrl": "https://movistar.com.pe/blog/internet-guia-definitiva",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 15,
+            "height": -302
+          },
+          "rawMisMatchPercentage": 20.732637642132794,
+          "misMatchPercentage": "20.73",
+          "analysisTime": 2776
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog__0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_blog__0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_blog__0__0_mobile.png",
+        "label": "movistar.com.pe/blog/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/",
+        "referenceUrl": "https://movistar.com.pe/blog/",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/blog/",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_blog__0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog__0__1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_movistarcompe_blog__0__1_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_movistarcompe_blog__0__1_desktop.png",
+        "label": "movistar.com.pe/blog/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/",
+        "referenceUrl": "https://movistar.com.pe/blog/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-residencial.movistar.com.pe/blog/",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_blog__0__1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_0__0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_empresasmovistarcompe_0__0_mobile.png",
+        "selector": "",
+        "fileName": "movistarcompe_empresasmovistarcompe_0__0_mobile.png",
+        "label": "empresas.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe",
+        "referenceUrl": "https://empresas.movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-empresas.movistar.com.pe",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_empresasmovistarcompe_0__0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_empresasmovistarcompe_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_0_document_1_desktop.png",
+        "label": "empresas.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe",
+        "referenceUrl": "https://empresas.movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 120
+          },
+          "rawMisMatchPercentage": 16.764626856659824,
+          "misMatchPercentage": "16.76",
+          "analysisTime": 2904
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_empresasmovistarcompe_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_empresasmovistarcompe_planes_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_planes_0_document_0_mobile.png",
+        "label": "empresas.movistar.com.pe/planes",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe/planes",
+        "referenceUrl": "https://empresas.movistar.com.pe/planes",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 15,
+            "height": 133
+          },
+          "rawMisMatchPercentage": 31.326327469730096,
+          "misMatchPercentage": "31.33",
+          "analysisTime": 1561
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_empresasmovistarcompe_planes_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_empresasmovistarcompe_planes_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_planes_0_document_1_desktop.png",
+        "label": "empresas.movistar.com.pe/planes",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe/planes",
+        "referenceUrl": "https://empresas.movistar.com.pe/planes",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 59
+          },
+          "rawMisMatchPercentage": 11.062720336753486,
+          "misMatchPercentage": "11.06",
+          "analysisTime": 3043
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_empresasmovistarcompe_planes_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_mi-movistar-empresas_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_empresasmovistarcompe_mi-movistar-empresas_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_mi-movistar-empresas_0_document_0_mobile.png",
+        "label": "empresas.movistar.com.pe/mi-movistar-empresas",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe/mi-movistar-empresas",
+        "referenceUrl": "https://empresas.movistar.com.pe/mi-movistar-empresas",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -557
+          },
+          "rawMisMatchPercentage": 39.93244354906405,
+          "misMatchPercentage": "39.93",
+          "analysisTime": 2151
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_empresasmovistarcompe_mi-movistar-empresas_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_mi-movistar-empresas_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_empresasmovistarcompe_mi-movistar-empresas_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_mi-movistar-empresas_0_document_1_desktop.png",
+        "label": "empresas.movistar.com.pe/mi-movistar-empresas",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe/mi-movistar-empresas",
+        "referenceUrl": "https://empresas.movistar.com.pe/mi-movistar-empresas",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -787
+          },
+          "rawMisMatchPercentage": 52.623915067982864,
+          "misMatchPercentage": "52.62",
+          "analysisTime": 6791
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_empresasmovistarcompe_mi-movistar-empresas_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_embajadormovistarcompe_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_embajadormovistarcompe_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_embajadormovistarcompe_0_document_0_mobile.png",
+        "label": "embajador.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-embajador.movistar.com.pe",
+        "referenceUrl": "https://embajador.movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 7
+          },
+          "rawMisMatchPercentage": 32.48913362701909,
+          "misMatchPercentage": "32.49",
+          "analysisTime": 874
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_embajadormovistarcompe_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_embajadormovistarcompe_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_embajadormovistarcompe_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_embajadormovistarcompe_0_document_1_desktop.png",
+        "label": "embajador.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-embajador.movistar.com.pe",
+        "referenceUrl": "https://embajador.movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 9
+          },
+          "rawMisMatchPercentage": 3.7232587556328562,
+          "misMatchPercentage": "3.72",
+          "analysisTime": 960
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_embajadormovistarcompe_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_embajadormovistarcompe_movistar-total_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_embajadormovistarcompe_movistar-total_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_embajadormovistarcompe_movistar-total_0_document_0_mobile.png",
+        "label": "embajador.movistar.com.pe/movistar-total",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-embajador.movistar.com.pe/movistar-total",
+        "referenceUrl": "https://embajador.movistar.com.pe/movistar-total",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 7
+          },
+          "rawMisMatchPercentage": 32.48913362701909,
+          "misMatchPercentage": "32.49",
+          "analysisTime": 1226
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_embajadormovistarcompe_movistar-total_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_embajadormovistarcompe_movistar-total_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_embajadormovistarcompe_movistar-total_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_embajadormovistarcompe_movistar-total_0_document_1_desktop.png",
+        "label": "embajador.movistar.com.pe/movistar-total",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-embajador.movistar.com.pe/movistar-total",
+        "referenceUrl": "https://embajador.movistar.com.pe/movistar-total",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 9
+          },
+          "rawMisMatchPercentage": 3.721875247055103,
+          "misMatchPercentage": "3.72",
+          "analysisTime": 654
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_embajadormovistarcompe_movistar-total_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_embajadormovistarcompe_hogar_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_embajadormovistarcompe_hogar_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_embajadormovistarcompe_hogar_0_document_0_mobile.png",
+        "label": "embajador.movistar.com.pe/hogar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-embajador.movistar.com.pe/hogar",
+        "referenceUrl": "https://embajador.movistar.com.pe/hogar",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 306
+          },
+          "rawMisMatchPercentage": 25.70306323332546,
+          "misMatchPercentage": "25.70",
+          "analysisTime": 2026
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_embajadormovistarcompe_hogar_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_embajadormovistarcompe_hogar_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_embajadormovistarcompe_hogar_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_embajadormovistarcompe_hogar_0_document_1_desktop.png",
+        "label": "embajador.movistar.com.pe/hogar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-embajador.movistar.com.pe/hogar",
+        "referenceUrl": "https://embajador.movistar.com.pe/hogar",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -64
+          },
+          "rawMisMatchPercentage": 16.931994250633405,
+          "misMatchPercentage": "16.93",
+          "analysisTime": 3164
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_embajadormovistarcompe_hogar_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_centrodetransparenciamovistarcompe_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_centrodetransparenciamovistarcompe_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_centrodetransparenciamovistarcompe_0_document_0_mobile.png",
+        "label": "centrodetransparencia.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-transparencia.movistar.com.pe/",
+        "referenceUrl": "https://centrodetransparencia.movistar.com.pe/",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -152
+          },
+          "rawMisMatchPercentage": 45.66195811008281,
+          "misMatchPercentage": "45.66",
+          "analysisTime": 2408
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_centrodetransparenciamovistarcompe_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_centrodetransparenciamovistarcompe_0__1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_centrodetransparenciamovistarcompe_0__1_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_centrodetransparenciamovistarcompe_0__1_desktop.png",
+        "label": "centrodetransparencia.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-transparencia.movistar.com.pe/",
+        "referenceUrl": "https://centrodetransparencia.movistar.com.pe/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-transparencia.movistar.com.pe/",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_centrodetransparenciamovistarcompe_0__1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_centrodetransparenciamovistarcompe_datos-personales__0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_centrodetransparenciamovistarcompe_datos-personales__0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_centrodetransparenciamovistarcompe_datos-personales__0_document_0_mobile.png",
+        "label": "centrodetransparencia.movistar.com.pe/datos-personales/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-transparencia.movistar.com.pe/datos-personales/",
+        "referenceUrl": "https://centrodetransparencia.movistar.com.pe/datos-personales/",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -493
+          },
+          "rawMisMatchPercentage": 21.15476815398075,
+          "misMatchPercentage": "21.15",
+          "analysisTime": 1540
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_centrodetransparenciamovistarcompe_datos-personales__0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_centrodetransparenciamovistarcompe_datos-personales__0__1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_centrodetransparenciamovistarcompe_datos-personales__0__1_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_centrodetransparenciamovistarcompe_datos-personales__0__1_desktop.png",
+        "label": "centrodetransparencia.movistar.com.pe/datos-personales/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-transparencia.movistar.com.pe/datos-personales/",
+        "referenceUrl": "https://centrodetransparencia.movistar.com.pe/datos-personales/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-transparencia.movistar.com.pe/datos-personales/",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_centrodetransparenciamovistarcompe_datos-personales__0__1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_centrodetransparenciamovistarcompe_principios-de-negocio-responsable__0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_centrodetransparenciamovistarcompe_principios-de-negocio-responsable__0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_centrodetransparenciamovistarcompe_principios-de-negocio-responsable__0_document_0_mobile.png",
+        "label": "centrodetransparencia.movistar.com.pe/principios-de-negocio-responsable/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-transparencia.movistar.com.pe/principios-de-negocio-responsable/",
+        "referenceUrl": "https://centrodetransparencia.movistar.com.pe/principios-de-negocio-responsable/",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -22
+          },
+          "rawMisMatchPercentage": 22.454666216368345,
+          "misMatchPercentage": "22.45",
+          "analysisTime": 1147
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_centrodetransparenciamovistarcompe_principios-de-negocio-responsable__0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_centrodetransparenciamovistarcompe_principios-de-negocio-responsable__0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_centrodetransparenciamovistarcompe_principios-de-negocio-responsable__0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_centrodetransparenciamovistarcompe_principios-de-negocio-responsable__0_document_1_desktop.png",
+        "label": "centrodetransparencia.movistar.com.pe/principios-de-negocio-responsable/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-transparencia.movistar.com.pe/principios-de-negocio-responsable/",
+        "referenceUrl": "https://centrodetransparencia.movistar.com.pe/principios-de-negocio-responsable/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 2
+          },
+          "rawMisMatchPercentage": 1.9037693177534867,
+          "misMatchPercentage": "1.90",
+          "analysisTime": 925
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_centrodetransparenciamovistarcompe_principios-de-negocio-responsable__0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_infoabonadosmovistarcompe_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_infoabonadosmovistarcompe_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_infoabonadosmovistarcompe_0_document_0_mobile.png",
+        "label": "infoabonados.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-abonados.movistar.com.pe/",
+        "referenceUrl": "https://infoabonados.movistar.com.pe/",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 240
+          },
+          "rawMisMatchPercentage": 1.5775972845193356,
+          "misMatchPercentage": "1.58",
+          "analysisTime": 1281
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_infoabonadosmovistarcompe_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_infoabonadosmovistarcompe_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_infoabonadosmovistarcompe_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_infoabonadosmovistarcompe_0_document_1_desktop.png",
+        "label": "infoabonados.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-abonados.movistar.com.pe/",
+        "referenceUrl": "https://infoabonados.movistar.com.pe/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 38
+          },
+          "rawMisMatchPercentage": 8.31451411441419,
+          "misMatchPercentage": "8.31",
+          "analysisTime": 903
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_infoabonadosmovistarcompe_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_infoabonadosmovistarcompe_contratos-aplicativos_aplicaciones__0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_infoabonadosmovistarcompe_contratos-aplicativos_aplicaciones__0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_infoabonadosmovistarcompe_contratos-aplicativos_aplicaciones__0_document_0_mobile.png",
+        "label": "infoabonados.movistar.com.pe/contratos-aplicativos/aplicaciones/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-abonados.movistar.com.pe/contratos-aplicativos/aplicaciones/",
+        "referenceUrl": "https://infoabonados.movistar.com.pe/contratos-aplicativos/aplicaciones/",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 240
+          },
+          "rawMisMatchPercentage": 3.7075919335705807,
+          "misMatchPercentage": "3.71",
+          "analysisTime": 1366
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_infoabonadosmovistarcompe_contratos-aplicativos_aplicaciones__0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_infoabonadosmovistarcompe_contratos-aplicativos_aplicaciones__0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_infoabonadosmovistarcompe_contratos-aplicativos_aplicaciones__0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_infoabonadosmovistarcompe_contratos-aplicativos_aplicaciones__0_document_1_desktop.png",
+        "label": "infoabonados.movistar.com.pe/contratos-aplicativos/aplicaciones/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-abonados.movistar.com.pe/contratos-aplicativos/aplicaciones/",
+        "referenceUrl": "https://infoabonados.movistar.com.pe/contratos-aplicativos/aplicaciones/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_infoabonadosmovistarcompe_contratos-aplicativos_aplicaciones__0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_infoabonadosmovistarcompe_contratos-de-servicios__0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_infoabonadosmovistarcompe_contratos-de-servicios__0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_infoabonadosmovistarcompe_contratos-de-servicios__0_document_0_mobile.png",
+        "label": "infoabonados.movistar.com.pe/contratos-de-servicios/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-abonados.movistar.com.pe/contratos-de-servicios/",
+        "referenceUrl": "https://infoabonados.movistar.com.pe/contratos-de-servicios/",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 241
+          },
+          "rawMisMatchPercentage": 2.0109129705837523,
+          "misMatchPercentage": "2.01",
+          "analysisTime": 1738
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_infoabonadosmovistarcompe_contratos-de-servicios__0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_infoabonadosmovistarcompe_contratos-de-servicios__0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_infoabonadosmovistarcompe_contratos-de-servicios__0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_infoabonadosmovistarcompe_contratos-de-servicios__0_document_1_desktop.png",
+        "label": "infoabonados.movistar.com.pe/contratos-de-servicios/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-abonados.movistar.com.pe/contratos-de-servicios/",
+        "referenceUrl": "https://infoabonados.movistar.com.pe/contratos-de-servicios/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -41
+          },
+          "rawMisMatchPercentage": 1.3579629001244204,
+          "misMatchPercentage": "1.36",
+          "analysisTime": 1305
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_infoabonadosmovistarcompe_contratos-de-servicios__0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_mayoristamovistarcompe_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_mayoristamovistarcompe_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_mayoristamovistarcompe_0_document_0_mobile.png",
+        "label": "mayorista.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-mayorista.movistar.com.pe/",
+        "referenceUrl": "https://mayorista.movistar.com.pe/",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 226
+          },
+          "rawMisMatchPercentage": 42.307968429019354,
+          "misMatchPercentage": "42.31",
+          "analysisTime": 641
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_mayoristamovistarcompe_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_mayoristamovistarcompe_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_mayoristamovistarcompe_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_mayoristamovistarcompe_0_document_1_desktop.png",
+        "label": "mayorista.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-mayorista.movistar.com.pe/",
+        "referenceUrl": "https://mayorista.movistar.com.pe/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -41
+          },
+          "rawMisMatchPercentage": 29.796641791044777,
+          "misMatchPercentage": "29.80",
+          "analysisTime": 3022
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_mayoristamovistarcompe_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_mayoristamovistarcompe_crecemos-juntos_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_mayoristamovistarcompe_crecemos-juntos_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_mayoristamovistarcompe_crecemos-juntos_0_document_0_mobile.png",
+        "label": "mayorista.movistar.com.pe/crecemos-juntos",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-mayorista.movistar.com.pe/crecemos-juntos",
+        "referenceUrl": "https://mayorista.movistar.com.pe/crecemos-juntos",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 48
+          },
+          "rawMisMatchPercentage": 28.387670797585002,
+          "misMatchPercentage": "28.39",
+          "analysisTime": 1426
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_mayoristamovistarcompe_crecemos-juntos_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_mayoristamovistarcompe_crecemos-juntos_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_mayoristamovistarcompe_crecemos-juntos_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_mayoristamovistarcompe_crecemos-juntos_0_document_1_desktop.png",
+        "label": "mayorista.movistar.com.pe/crecemos-juntos",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-mayorista.movistar.com.pe/crecemos-juntos",
+        "referenceUrl": "https://mayorista.movistar.com.pe/crecemos-juntos",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -48
+          },
+          "rawMisMatchPercentage": 3.1859281657939373,
+          "misMatchPercentage": "3.19",
+          "analysisTime": 1373
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_mayoristamovistarcompe_crecemos-juntos_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_mayoristamovistarcompe_conectividad-ethernet-ip-vpn_0_document_0_mobile.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_mayoristamovistarcompe_conectividad-ethernet-ip-vpn_0_document_0_mobile.png",
+        "selector": "document",
+        "fileName": "movistarcompe_mayoristamovistarcompe_conectividad-ethernet-ip-vpn_0_document_0_mobile.png",
+        "label": "mayorista.movistar.com.pe/conectividad-ethernet-ip-vpn",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-mayorista.movistar.com.pe/conectividad-ethernet-ip-vpn",
+        "referenceUrl": "https://mayorista.movistar.com.pe/conectividad-ethernet-ip-vpn",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -48
+          },
+          "rawMisMatchPercentage": 18.690246913580246,
+          "misMatchPercentage": "18.69",
+          "analysisTime": 441
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_mayoristamovistarcompe_conectividad-ethernet-ip-vpn_0_document_0_mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_mayoristamovistarcompe_conectividad-ethernet-ip-vpn_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20241023-185248/movistarcompe_mayoristamovistarcompe_conectividad-ethernet-ip-vpn_0_document_1_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_mayoristamovistarcompe_conectividad-ethernet-ip-vpn_0_document_1_desktop.png",
+        "label": "mayorista.movistar.com.pe/conectividad-ethernet-ip-vpn",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-mayorista.movistar.com.pe/conectividad-ethernet-ip-vpn",
+        "referenceUrl": "https://mayorista.movistar.com.pe/conectividad-ethernet-ip-vpn",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 70
+          },
+          "rawMisMatchPercentage": 7.941760877012675,
+          "misMatchPercentage": "7.94",
+          "analysisTime": 1638
+        },
+        "diffImage": "../bitmaps_test/20241023-185248/failed_diff_movistarcompe_mayoristamovistarcompe_conectividad-ethernet-ip-vpn_0_document_1_desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "movistar.com.pe"
+}

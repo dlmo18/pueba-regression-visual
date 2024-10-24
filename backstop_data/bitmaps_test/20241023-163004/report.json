@@ -1,0 +1,114 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20241023-163004/movistarcompe_movistarcompe_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_0_document_0_desktop.png",
+        "label": "movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe",
+        "referenceUrl": "https://movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 455
+          },
+          "rawMisMatchPercentage": 21.541016500762264,
+          "misMatchPercentage": "21.54",
+          "analysisTime": 900
+        },
+        "diffImage": "../bitmaps_test/20241023-163004/failed_diff_movistarcompe_movistarcompe_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20241023-163004/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_desktop.png",
+        "label": "movistar.com.pe/blog/internet-guia-definitiva",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/internet-guia-definitiva",
+        "referenceUrl": "https://blog.movistar.com.pe/blog/internet-guia-definitiva",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -15,
+            "height": -8255
+          },
+          "rawMisMatchPercentage": 10.640590370423787,
+          "misMatchPercentage": "10.64",
+          "analysisTime": 948
+        },
+        "diffImage": "../bitmaps_test/20241023-163004/failed_diff_movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20241023-163004/movistarcompe_empresasmovistarcompe_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_0_document_0_desktop.png",
+        "label": "empresas.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe",
+        "referenceUrl": "https://empresas.movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 44
+          },
+          "rawMisMatchPercentage": 19.54784916543937,
+          "misMatchPercentage": "19.55",
+          "analysisTime": 719
+        },
+        "diffImage": "../bitmaps_test/20241023-163004/failed_diff_movistarcompe_empresasmovistarcompe_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20241023-163004/movistarcompe_empresasmovistarcompe_planes_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_planes_0_document_0_desktop.png",
+        "label": "empresas.movistar.com.pe/planes",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe/planes",
+        "referenceUrl": "https://empresas.movistar.com.pe/planes",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 59
+          },
+          "rawMisMatchPercentage": 12.876979742173111,
+          "misMatchPercentage": "12.88",
+          "analysisTime": 368
+        },
+        "diffImage": "../bitmaps_test/20241023-163004/failed_diff_movistarcompe_empresasmovistarcompe_planes_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "movistar.com.pe"
+}

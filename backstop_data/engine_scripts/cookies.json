@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".www.movistar.com.pe",
+    "path": "/",
+    "name": "cookie",
+    "value": "cookie",
+    "expirationDate": 1798790400,
+    "hostOnly": false,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameSite": "Lax"
+  }
+]

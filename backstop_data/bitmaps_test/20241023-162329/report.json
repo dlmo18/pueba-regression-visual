@@ -1,0 +1,211 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_0_document_0_phone.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_movistarcompe_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_0_document_0_phone.png",
+        "label": "movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe",
+        "referenceUrl": "https://movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_0_document_0_phone.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_movistarcompe_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_0_document_1_tablet.png",
+        "label": "movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe",
+        "referenceUrl": "https://movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_0_document_1_tablet.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_0_document_2_desktop.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_movistarcompe_0_document_2_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_0_document_2_desktop.png",
+        "label": "movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe",
+        "referenceUrl": "https://movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_0_document_2_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_phone.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_phone.png",
+        "label": "movistar.com.pe/blog/internet-guia-definitiva",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/internet-guia-definitiva",
+        "referenceUrl": "https://blog.movistar.com.pe/blog/internet-guia-definitiva",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_0_phone.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_1_tablet.png",
+        "label": "movistar.com.pe/blog/internet-guia-definitiva",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/internet-guia-definitiva",
+        "referenceUrl": "https://blog.movistar.com.pe/blog/internet-guia-definitiva",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_1_tablet.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_2_desktop.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_2_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_2_desktop.png",
+        "label": "movistar.com.pe/blog/internet-guia-definitiva",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-residencial.movistar.com.pe/blog/internet-guia-definitiva",
+        "referenceUrl": "https://blog.movistar.com.pe/blog/internet-guia-definitiva",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_movistarcompe_blog_internet-guia-definitiva_0_document_2_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_0_document_0_phone.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_empresasmovistarcompe_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_0_document_0_phone.png",
+        "label": "empresas.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe",
+        "referenceUrl": "https://empresas.movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_empresasmovistarcompe_0_document_0_phone.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_empresasmovistarcompe_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_0_document_1_tablet.png",
+        "label": "empresas.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe",
+        "referenceUrl": "https://empresas.movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_empresasmovistarcompe_0_document_1_tablet.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_0_document_2_desktop.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_empresasmovistarcompe_0_document_2_desktop.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_0_document_2_desktop.png",
+        "label": "empresas.movistar.com.pe",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe",
+        "referenceUrl": "https://empresas.movistar.com.pe",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_empresasmovistarcompe_0_document_2_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0_document_0_phone.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_empresasmovistarcompe_planes_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_planes_0_document_0_phone.png",
+        "label": "empresas.movistar.com.pe/planes",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe/planes",
+        "referenceUrl": "https://empresas.movistar.com.pe/planes",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0_document_0_phone.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_empresasmovistarcompe_planes_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "movistarcompe_empresasmovistarcompe_planes_0_document_1_tablet.png",
+        "label": "empresas.movistar.com.pe/planes",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe/planes",
+        "referenceUrl": "https://empresas.movistar.com.pe/planes",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0_document_1_tablet.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0__2_desktop.png",
+        "test": "../bitmaps_test/20241023-162329/movistarcompe_empresasmovistarcompe_planes_0__2_desktop.png",
+        "selector": "",
+        "fileName": "movistarcompe_empresasmovistarcompe_planes_0__2_desktop.png",
+        "label": "empresas.movistar.com.pe/planes",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://uatwp-cms-empresas.movistar.com.pe/planes",
+        "referenceUrl": "https://empresas.movistar.com.pe/planes",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "net::ERR_NETWORK_CHANGED at https://uatwp-cms-empresas.movistar.com.pe/planes",
+        "error": "Reference file not found /home/david/Escritorio/server/movistar-regression-visual/backstop_data/bitmaps_reference/movistarcompe_empresasmovistarcompe_planes_0__2_desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "movistar.com.pe"
+}
